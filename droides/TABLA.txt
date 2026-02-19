@@ -1,0 +1,41 @@
+----------------------------------------------------------------------------------
+B1 CMD: 
+B1 SDO: 
+B1 Security: CMD  /  TTE  /  SGT  /  SDO  /  X0  /   TOTAL
+B1 piloto: CMD  /  TTE  /  SGT  /  SDO  /  X0  /  TOTAL 
+B1 Ingeniero: CMD  /  TTE3 /   SGT  /  SDO  /  TOTAL 
+B1 Tanquista: CMD /   SGT  /  SDO 
+B1 Marine:  CMD    / SGT  /  SDO 
+B1 Mecanico: 
+B1 Rocket: 
+B1 Bombero: 
+B1 Snow:
+B1 Geonosis: 
+B1 XO: 
+B1 ENT: 
+----------------------------------------------------------------------------------
+B2 ENT: 
+B2 XO: 
+B2 CMD: 
+B2 PVT: 
+B2 Elite: 
+B2 SNOW: 
+B2 JET: 
+----------------------------------------------------------------------------------
+BX PVT: 
+BX CPT: 
+BX Citadel: 
+Bx Senate: 
+Bx ENT: 
+Bx Snow: 
+----------------------------------------------------------------------------------
+Vehiculos CIS:
+AAT: 
+MTT: 
+Naves CIS:
+Vulture 
+Tri-Caza 
+Gunship 
+----------------------------------------------------------------------------------
+Tacticos: Negro  /  Rojo  /  purpura  /  amarillo / Azulado/ cyan 
+Magnaguardias: / IG-100  /  Snow  /  Elite  /  Shadow 
